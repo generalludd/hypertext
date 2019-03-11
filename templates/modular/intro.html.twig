@@ -1,0 +1,8 @@
+{% set grid_size = theme_var('grid-size') %}
+<section class="section modular-intro {{ page.header.class}}">
+        <section class="container {{ grid_size }}">
+            <div class="frame-box">
+                {{ content|raw }}
+            </div>
+        </section>
+</section>

@@ -1,15 +1,15 @@
 name: Hypertext
 version: 1.0.2
-description: "Hypertext is a zero JS/CSS theme to create simple, fast websites."
+description: "This is a fork of Aljo Grigera's hypertext theme at github.com/artofthesmart/hypertext. It has modular capabilities"
 icon: compress
 author:
-  name: Alejo Grigera
-  email: hypertext@artofthesmart.com
-  url: http://artofthesmart.com
-homepage: https://github.com/artofthesmart/hypertext
+  name: Chris Dart
+  email: technology@cerebratorium.com
+  url: https://github.com/generalludd
+homepage: https://github.com/generalludd/hypertext
 demo: http://hypertext.artofthesmart.com
 keywords: theme, simple, compliance, fast
-bugs: https://github.com/artofthesmart/hypertext/issues
+bugs: https://github.com/generalludd/hypertext/issues
 license: MIT
 
 form:
@@ -168,5 +168,5 @@ form:
               label: Additional Menu Items
               help: Add items to have them "tacked on" to the end of the menu bar, like Github or Twitter links.
               placeholder_key: e.g. Twitter
-              placeholder_value: http://twitter.com/artofthesmart/
+              placeholder_value: 
               required: false
